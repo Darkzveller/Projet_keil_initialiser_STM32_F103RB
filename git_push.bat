@@ -1,2 +1,2 @@
 echo off
-git status && git add . && git commit -m "Ajout tuto + gitignore + git_push.bat " && git push
+git status && git add . && git commit -m "Ajout readme en cours d'écriture " && git push
